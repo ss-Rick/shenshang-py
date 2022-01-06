@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shenshang-py
 - 👀 I’m interested in Embedded
-- 🌱 I’m currently learning SQL Server
+- 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me 
 -   QQ：420545806
